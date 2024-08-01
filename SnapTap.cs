@@ -1,3 +1,5 @@
+// Copyright rendrop 2024
+
 using System;
 using UnityEngine;
 
